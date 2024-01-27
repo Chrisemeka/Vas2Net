@@ -1,0 +1,46 @@
+nav{
+    margin: 0 auto;
+    padding: 10px 0;
+    width: 90%;
+}
+header{
+    background-color: #bab9b9;
+}
+.custNav{
+    display: flex;
+    justify-content: space-between;
+}
+.custNav div.logo img{
+    border-radius: 50%;
+}
+#index_main{
+    text-align: center;
+    margin-top: 80px;
+}
+.sign-up {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    width: 100%;
+}
+span{
+    color: blue;
+}
+span:hover{
+    cursor: pointer;
+}
+
+.adminHeader{
+    background-color: #bab9b9 !important; 
+}
+.adminNav{
+    display: flex;
+    justify-content: space-between;
+}
+.adminNav  .padding{
+    padding: 0 20px;
+}
+.container_update{
+    margin: 0 auto;
+    width: 60%;
+}
